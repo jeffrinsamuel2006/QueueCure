@@ -123,7 +123,7 @@ Patient Dashboard
 
 ### Analytics Dashboard
 
-![Analytics Dashboard](docs/screenshots/analytics.png)
+![Analytics Dashboard](docs/screenshots/analysis.png)
 
 ### Clone Repository
 
