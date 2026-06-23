@@ -111,25 +111,19 @@ Patient Dashboard
 
 ### Receptionist Dashboard
 
-![Receptionist Dashboard](docs/screenshots/receptionist-dashboard.png)
+![Receptionist Dashboard](docs/screenshots/receptionist.png)
 
 ### Patient Dashboard
 
-![Patient Dashboard](docs/screenshots/patient-dashboard.png)
+![Patient Dashboard](docs/screenshots/patient.png)
 
 ### Live Queue Board
 
-![Queue Board](docs/screenshots/queue-board.png)
+![Queue Board](docs/screenshots/board.png)
 
 ### Analytics Dashboard
 
 ![Analytics Dashboard](docs/screenshots/analytics.png)
-
-### System Architecture
-
-![Architecture](docs/screenshots/architecture.png)
-
-## Installation
 
 ### Clone Repository
 
