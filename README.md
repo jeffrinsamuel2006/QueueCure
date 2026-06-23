@@ -109,9 +109,25 @@ Patient Dashboard
 
 ## Screenshots
 
-(Add project screenshots here)
+### Receptionist Dashboard
 
----
+![Receptionist Dashboard](docs/screenshots/receptionist-dashboard.png)
+
+### Patient Dashboard
+
+![Patient Dashboard](docs/screenshots/patient-dashboard.png)
+
+### Live Queue Board
+
+![Queue Board](docs/screenshots/queue-board.png)
+
+### Analytics Dashboard
+
+![Analytics Dashboard](docs/screenshots/analytics.png)
+
+### System Architecture
+
+![Architecture](docs/screenshots/architecture.png)
 
 ## Installation
 
