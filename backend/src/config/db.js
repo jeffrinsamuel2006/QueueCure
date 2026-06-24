@@ -15,5 +15,5 @@ export async function connectDatabase() {
     console.warn('MongoDB connection failed. Falling back to in-memory storage.');
     console.warn(error.message);
     return { connected: false };
-  }
+}
 }
